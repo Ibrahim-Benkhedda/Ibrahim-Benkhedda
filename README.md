@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a developer with a passion for visual computing and full stack development. My GitHub portfolio showcases my projects and skills in these areas. Thanks for checking it out 😄
+
 <!--
 **Ibrahim-Benkhedda/Ibrahim-Benkhedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
