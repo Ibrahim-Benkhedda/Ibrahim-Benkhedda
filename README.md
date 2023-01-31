@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with a passion for visual computing and full stack development. My GitHub portfolio showcases my projects and skills in these areas. Thanks for checking it out 😄
+I'm a CS student with a passion for visual computing and full stack development. My GitHub portfolio showcases my projects and skills in these areas. Thanks for checking it out 😄
 
 <!--
 - 🔭 I’m currently working on ...
